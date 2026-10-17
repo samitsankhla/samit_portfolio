@@ -234,6 +234,13 @@ const education = [
 
 const certificates = [
   {
+      title: "Programming in Java",
+    issuer: "NPTEL",
+    year: "2023",
+    // link: "#"
+    
+  },
+  {
     title:
       "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
     issuer: "Oracle University",
