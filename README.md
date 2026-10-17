@@ -10,7 +10,7 @@ First, run the development server:
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+Open [https://samit-portfolio-self.vercel.app/] with your browser to see the result.
 
 You can start editing the source files in the `src` folder. The page updates automatically as you make changes.
 
